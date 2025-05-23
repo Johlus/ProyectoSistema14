@@ -2,7 +2,7 @@
 Proyecto Escolar ITSG Ing. de Software Ene-Jun 2025
 
 
-Pasos para instalar el programa! \n
+Pasos para instalar el programa!
 1- Descargar los archivos .zip
 2- Seleccionar todos y realizar una extracción
 3- Se tendran 3 archivos una carpeta, un archivo Sistema14.exe y la base de datos EscuelaV2.sql
