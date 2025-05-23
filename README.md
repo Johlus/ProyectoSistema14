@@ -3,8 +3,8 @@ Proyecto Escolar ITSG Ing. de Software Ene-Jun 2025
 
 
 Pasos para instalar el programa!
-1- Descargar los archivos .zip
-2- Seleccionar todos y realizar una extracción
+1- Descargar los archivos .zip y 7ZIP https://www.7-zip.org/download.html o cualquier gestor para comprimir y descomprimir archivos
+2- Seleccionar todos y realizar una extracción en la direccion deseada
 3- Se tendran 3 archivos una carpeta, un archivo Sistema14.exe y la base de datos EscuelaV2.sql
 4- Guardaremos los archivos, instalaremos una version de SQL Server, puede ser la version mas reciente, y el SQL Management Studio para operar la instancia
     podemos descargarlo desde los siguientes link:
